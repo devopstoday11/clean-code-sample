@@ -1,0 +1,6 @@
+
+ :: Clean Code Sample App ::
+
+ Configuration: (env variables)
+
+  - USUMU_SECRET: the 32 byte secret used for encryption

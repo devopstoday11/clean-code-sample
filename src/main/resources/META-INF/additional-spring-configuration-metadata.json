@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "USUMU_SECRET",
+      "type": "java.lang.String",
+      "description": "Global secret for encrypting data stored on object storage backends."
+    }
+  ]
+}
